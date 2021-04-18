@@ -517,8 +517,13 @@ namespace HangMan
 
             Console.WriteLine("\tTo play Hangman, try to guess the 5 letter word to save Mr. Hangmin.");
             Console.WriteLine("\tGuess one letter at a time. If you get too many guesses wrong, you lose.");
-            Console.WriteLine("\tYou win if you can guess the word with as few guesses as you can");
+            Console.WriteLine("\tYou win if you can guess the word with as few guesses as you can.");
             Console.WriteLine("\t(If you are still unclear, the application will guide you through it.");
+
+            Console.WriteLine("\tUse Modify Hangman Dictionary to see, add, and delete words the game will have you guess.");
+            Console.WriteLine("\tUse Difficulty Settings to make the game easier or harder.");
+            Console.WriteLine("\t(letter memory means the wordbank-type dealeo you that shows you what letters you can use)");
+            Console.WriteLine();
 
             Console.WriteLine("\tAll code was written by James Olszewski.");
             Console.WriteLine("\tW3schools and John Velis's work were used as references.");

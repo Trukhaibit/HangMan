@@ -90,7 +90,7 @@ namespace HangMan
                 Console.WriteLine("\tc) Play Hangman");
                 Console.WriteLine("\td) Instructions & Credits");
                 Console.WriteLine("\tq) Quit");
-                Console.Write("\t\tEnter Choice:");
+                Console.Write("\t\tEnter Choice: ");
                 menuChoice = Console.ReadLine().ToLower();
 
                 //

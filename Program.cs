@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace HangMan
 {
-    //
+    //***********************************************************
     // Title: Hangman
     // Description: An interactive, text-based version of Hangman
     // Author: Olszewski, James
     // Date Created: 4/11/2021
-    // Last Modified: 4/11/2021
-    //
+    // Last Modified: 4/18/2021
+    //***********************************************************
     enum Letters
     {
         A,
